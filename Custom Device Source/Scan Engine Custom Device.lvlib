@@ -209,6 +209,9 @@
 				<Item Name="Update Slots.vi" Type="VI" URL="../System Explorer/Utility/Update Slots.vi"/>
 				<Item Name="Reset Slots.vi" Type="VI" URL="../System Explorer/Utility/Reset Slots.vi"/>
 				<Item Name="Change Local Slots.vi" Type="VI" URL="../System Explorer/Utility/Change Local Slots.vi"/>
+				<Item Name="Get Module Names.vi" Type="VI" URL="../System Explorer/Utility/Get Module Names.vi"/>
+				<Item Name="Get Module Name.vi" Type="VI" URL="../System Explorer/Utility/Get Module Name.vi"/>
+				<Item Name="Get Module By Name.vi" Type="VI" URL="../System Explorer/Utility/Get Module By Name.vi"/>
 			</Item>
 			<Item Name="ECAT" Type="Folder">
 				<Item Name="Master" Type="Folder">
