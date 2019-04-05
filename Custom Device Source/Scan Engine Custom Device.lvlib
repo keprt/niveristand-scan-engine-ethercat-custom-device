@@ -60,6 +60,7 @@
 		<Item Name="revert.png" Type="Document" URL="../Glyphs/revert.png"/>
 		<Item Name="network disabled.png" Type="Document" URL="../Glyphs/network disabled.png"/>
 		<Item Name="RemoteIOModule.png" Type="Document" URL="../Glyphs/RemoteIOModule.png"/>
+		<Item Name="ImportExport.png" Type="Document" URL="../Glyphs/ImportExport.png"/>
 	</Item>
 	<Item Name="Type Defs" Type="Folder">
 		<Item Name="RT" Type="Folder">
@@ -106,6 +107,7 @@
 			<Item Name="Host - Slave.ctl" Type="VI" URL="../Type Defs/Host - Slave.ctl"/>
 			<Item Name="Host - Master.ctl" Type="VI" URL="../Type Defs/Host - Master.ctl"/>
 			<Item Name="Host - FPGAScanInterfaceMode.ctl" Type="VI" URL="../Type Defs/Host - FPGAScanInterfaceMode.ctl"/>
+			<Item Name="Host - Import Export Action.ctl" Type="VI" URL="../Type Defs/Host - Import Export Action.ctl"/>
 			<Item Name="ECAT Channel Data Type.ctl" Type="VI" URL="../Type Defs/ECAT Channel Data Type.ctl"/>
 			<Item Name="FPGAScanInterfaceMode.ctl" Type="VI" URL="../Type Defs/FPGAScanInterfaceMode.ctl"/>
 			<Item Name="NI ECAT Slaves.ctl" Type="VI" URL="../Type Defs/NI ECAT Slaves.ctl"/>
@@ -147,6 +149,7 @@
 			<Item Name="Main - Auto Detect Modules.vi" Type="VI" URL="../System Explorer/Action VIs/Main - Auto Detect Modules.vi"/>
 			<Item Name="Main - Manages 3rd Party Slaves.vi" Type="VI" URL="../System Explorer/Action VIs/Main - Manages 3rd Party Slaves.vi"/>
 			<Item Name="Main - On Load.vi" Type="VI" URL="../System Explorer/Action VIs/Main - On Load.vi"/>
+			<Item Name="Main - Import Export EtherCAT Configuration.vi" Type="VI" URL="../System Explorer/Action VIs/Main - Import Export EtherCAT Configuration.vi"/>
 			<Item Name="Master - Add EtherCAT Slave.vi" Type="VI" URL="../System Explorer/Action VIs/Master - Add EtherCAT Slave.vi"/>
 			<Item Name="FPGA - Select Bitfile (ECAT).vi" Type="VI" URL="../System Explorer/Action VIs/FPGA - Select Bitfile (ECAT).vi"/>
 			<Item Name="FPGA - Select Bitfile (Local).vi" Type="VI" URL="../System Explorer/Action VIs/FPGA - Select Bitfile (Local).vi"/>
@@ -252,6 +255,13 @@
 				<Item Name="Align cRIO Programming Mode.vi" Type="VI" URL="../System Explorer/Utility/Align cRIO Programming Mode.vi"/>
 				<Item Name="Set Main FPGA Chassis Slots Programming Mode.vi" Type="VI" URL="../System Explorer/Utility/Set Main FPGA Chassis Slots Programming Mode.vi"/>
 				<Item Name="List Local Chassis Modules.vi" Type="VI" URL="../System Explorer/Utility/List Local Chassis Modules.vi"/>
+				<Item Name="Import Export - Configuration Dialog.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Configuration Dialog.vi"/>
+				<Item Name="Import Export - Temp SDF Create.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Temp SDF Create.vi"/>
+				<Item Name="Import Export - Temp SDF Load EC CD from XML.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Temp SDF Load EC CD from XML.vi"/>
+				<Item Name="Import Export - Temp SDF Dispose.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Temp SDF Dispose.vi"/>
+				<Item Name="Import Export - Dialog Get Masters and Slaves.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Dialog Get Masters and Slaves.vi"/>
+				<Item Name="Import Export - Initialize Dialog.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Initialize Dialog.vi"/>
+				<Item Name="Import Export - Export.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Export.vi"/>
 			</Item>
 			<Item Name="RemIO" Type="Folder">
 				<Item Name="Scan Engine Update RemIO Subpanel.vi" Type="VI" URL="../System Explorer/Utility/Scan Engine Update RemIO Subpanel.vi"/>
