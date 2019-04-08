@@ -256,12 +256,13 @@
 				<Item Name="Set Main FPGA Chassis Slots Programming Mode.vi" Type="VI" URL="../System Explorer/Utility/Set Main FPGA Chassis Slots Programming Mode.vi"/>
 				<Item Name="List Local Chassis Modules.vi" Type="VI" URL="../System Explorer/Utility/List Local Chassis Modules.vi"/>
 				<Item Name="Import Export - Configuration Dialog.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Configuration Dialog.vi"/>
-				<Item Name="Import Export - Temp SDF Create.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Temp SDF Create.vi"/>
-				<Item Name="Import Export - Temp SDF Load EC CD from XML.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Temp SDF Load EC CD from XML.vi"/>
+				<Item Name="Import Export - Create Temp SDFs.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Create Temp SDFs.vi"/>
+				<Item Name="Import Export - Load EC CD from XML.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Load EC CD from XML.vi"/>
 				<Item Name="Import Export - Temp SDF Dispose.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Temp SDF Dispose.vi"/>
 				<Item Name="Import Export - Dialog Get Masters and Slaves.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Dialog Get Masters and Slaves.vi"/>
 				<Item Name="Import Export - Initialize Dialog.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Initialize Dialog.vi"/>
 				<Item Name="Import Export - Export.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Export.vi"/>
+				<Item Name="delete_Test.vi" Type="VI" URL="../delete_Test.vi"/>
 			</Item>
 			<Item Name="RemIO" Type="Folder">
 				<Item Name="Scan Engine Update RemIO Subpanel.vi" Type="VI" URL="../System Explorer/Utility/Scan Engine Update RemIO Subpanel.vi"/>

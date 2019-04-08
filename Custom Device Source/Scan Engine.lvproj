@@ -269,7 +269,6 @@
 				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
 				<Item Name="Create Mask By Alpha.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Create Mask By Alpha.vi"/>
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
-				<Item Name="Generate Temporary File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Generate Temporary File Path.vi"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -898,9 +897,7 @@
 				<Property Name="SourceCount" Type="Int">17</Property>
 			</Item>
 			<Item Name="Copy of Configuration - Release" Type="Source Distribution">
-				<Property Name="AB_Class_Path" Type="Path">/C/Program Files (x86)/National Instruments/LabVIEW 2017/vi.lib/AppBuilder/AB_Classes/SourceDistribution/AB_SourceDistribution.lvclass</Property>
 				<Property Name="AB_Temp_Project_Path" Type="Path"></Property>
-				<Property Name="AB_UIClass_Path" Type="Path">/C/Program Files (x86)/National Instruments/LabVIEW 2017/vi.lib/AppBuilder/AB_Classes/Build/UI/AB_UI_Frmwk_Build.lvclass</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{B7A19813-9BBA-48C7-8960-49C898DDF497}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Copy of Configuration - Release</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
