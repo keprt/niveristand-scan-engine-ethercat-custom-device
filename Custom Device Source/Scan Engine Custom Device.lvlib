@@ -107,7 +107,6 @@
 			<Item Name="Host - Slave.ctl" Type="VI" URL="../Type Defs/Host - Slave.ctl"/>
 			<Item Name="Host - Master.ctl" Type="VI" URL="../Type Defs/Host - Master.ctl"/>
 			<Item Name="Host - FPGAScanInterfaceMode.ctl" Type="VI" URL="../Type Defs/Host - FPGAScanInterfaceMode.ctl"/>
-			<Item Name="Host - Import Export Action.ctl" Type="VI" URL="../Type Defs/Host - Import Export Action.ctl"/>
 			<Item Name="ECAT Channel Data Type.ctl" Type="VI" URL="../Type Defs/ECAT Channel Data Type.ctl"/>
 			<Item Name="FPGAScanInterfaceMode.ctl" Type="VI" URL="../Type Defs/FPGAScanInterfaceMode.ctl"/>
 			<Item Name="NI ECAT Slaves.ctl" Type="VI" URL="../Type Defs/NI ECAT Slaves.ctl"/>
@@ -256,13 +255,10 @@
 				<Item Name="Set Main FPGA Chassis Slots Programming Mode.vi" Type="VI" URL="../System Explorer/Utility/Set Main FPGA Chassis Slots Programming Mode.vi"/>
 				<Item Name="List Local Chassis Modules.vi" Type="VI" URL="../System Explorer/Utility/List Local Chassis Modules.vi"/>
 				<Item Name="Import Export - Configuration Dialog.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Configuration Dialog.vi"/>
-				<Item Name="Import Export - Create Temp SDFs.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Create Temp SDFs.vi"/>
-				<Item Name="Import Export - Load EC CD from XML.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Load EC CD from XML.vi"/>
-				<Item Name="Import Export - Temp SDF Dispose.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Temp SDF Dispose.vi"/>
-				<Item Name="Import Export - Dialog Get Masters and Slaves.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Dialog Get Masters and Slaves.vi"/>
-				<Item Name="Import Export - Initialize Dialog.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Initialize Dialog.vi"/>
-				<Item Name="Import Export - Export.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Export.vi"/>
-				<Item Name="delete_Test.vi" Type="VI" URL="../delete_Test.vi"/>
+				<Item Name="Import Export - Import from XML File.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Import from XML File.vi"/>
+				<Item Name="Import Export - Export to XML File.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Export to XML File.vi"/>
+				<Item Name="Import Export - Flatten to XML (CAR fix).vi" Type="VI" URL="../System Explorer/Utility/Import Export - Flatten to XML (CAR fix).vi"/>
+				<Item Name="Import Export - Unflatten from XML (CAR fix).vi" Type="VI" URL="../System Explorer/Utility/Import Export - Unflatten from XML (CAR fix).vi"/>
 			</Item>
 			<Item Name="RemIO" Type="Folder">
 				<Item Name="Scan Engine Update RemIO Subpanel.vi" Type="VI" URL="../System Explorer/Utility/Scan Engine Update RemIO Subpanel.vi"/>
