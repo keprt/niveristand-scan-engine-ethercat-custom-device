@@ -130,6 +130,7 @@
 			<Item Name="Scan Engine Custom Main IO Network Variables.vi" Type="VI" URL="../System Explorer/Pages/Scan Engine Custom Main IO Network Variables.vi"/>
 			<Item Name="Scan Engine ECAT IO Network Variables.vi" Type="VI" URL="../System Explorer/Pages/Scan Engine ECAT IO Network Variables.vi"/>
 			<Item Name="Scan Engine RemIO Module Page.vi" Type="VI" URL="../System Explorer/Pages/Scan Engine RemIO Module Page.vi"/>
+			<Item Name="Scan Engine Generic IOV Channel Page.vi" Type="VI" URL="../System Explorer/Pages/Scan Engine Generic IOV Channel Page.vi"/>
 			<Item Name="Scan Engine Slot Page.vi" Type="VI" URL="../System Explorer/Pages/Scan Engine Slot Page.vi"/>
 			<Item Name="Scan Engine AI Page.vi" Type="VI" URL="../System Explorer/Pages/Scan Engine AI Page.vi"/>
 			<Item Name="Scan Engine AO Page.vi" Type="VI" URL="../System Explorer/Pages/Scan Engine AO Page.vi"/>
@@ -259,6 +260,7 @@
 				<Item Name="Import Export - Export to XML File.vi" Type="VI" URL="../System Explorer/Utility/Import Export - Export to XML File.vi"/>
 				<Item Name="Import Export - Flatten to XML (CAR fix).vi" Type="VI" URL="../System Explorer/Utility/Import Export - Flatten to XML (CAR fix).vi"/>
 				<Item Name="Import Export - Unflatten from XML (CAR fix).vi" Type="VI" URL="../System Explorer/Utility/Import Export - Unflatten from XML (CAR fix).vi"/>
+				<Item Name="Add Channel Properties To String Array.vi" Type="VI" URL="../System Explorer/Utility/Add Channel Properties To String Array.vi"/>
 			</Item>
 			<Item Name="RemIO" Type="Folder">
 				<Item Name="Scan Engine Update RemIO Subpanel.vi" Type="VI" URL="../System Explorer/Utility/Scan Engine Update RemIO Subpanel.vi"/>
